@@ -1,2 +1,2 @@
-# swfitFramework
-study Swfit framework
+# swfitFramework & branch test
+study master merge develop branch
